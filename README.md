@@ -1,6 +1,6 @@
 # Clear The Clutter
 
-## This Python program is designed to streamline and organize your files by:
+### This Python program is designed to streamline and organize your files by:
 #### * *Clearing Clutter:* It effectively removes unnecessary characters (like special symbols, spaces, etc.) from file names, making them cleaner and more consistent.
 #### * *Renaming in Order:* It renames files sequentially (e.g., "File_1", "File_2", "File_3") or based on custom patterns, ensuring easy identification and management.
 
