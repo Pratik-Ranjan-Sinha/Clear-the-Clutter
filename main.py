@@ -30,7 +30,7 @@ def fileNamesInSeries(allFiles, renamePath):
         except OSError as e:
             print(f"Error Renaming File: {e}")
         
-folderPath = "C:/Users/prati/OneDrive/Desktop/Python/Day 68 - Exercise 7 - Clear the Clutter/Pictures"              # Give the file location
-renamePath = "C:/Users/prati/OneDrive/Desktop/Python/Day 68 - Exercise 7 - Clear the Clutter/renamedFiles"          # Give the Location where you want to put your file after renaming
+folderPath = "C:/Users/prati/OneDrive/Desktop/Data/Pratik Git Uploads/Clear the Clutter/Pictures"              # Give the file location
+renamePath = "C:/Users/prati/OneDrive/Desktop/Data/Pratik Git Uploads/Clear the Clutter/renamedFiles"          # Give the Location where you want to put your file after renaming
 allFiles = getLocationOfImages(folderPath)
 fileNamesInSeries(allFiles, renamePath)
