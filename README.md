@@ -16,3 +16,11 @@
 * *Musicians: Manage music libraries with descriptive file names that include artist, album, and track information.*
 * *Students and Researchers: Keep research materials well-organized with filenames that reflect content and date.*
 * *Anyone Working with Digital Files: Streamline your file management process and save time and effort.*
+
+## How to Use this Program
+#### Begin by placing all unorganized files within the designated 'Pictures' folder.
+### Customizing the Source Folder
+*The program retrieves files from a designated folder for processing. To modify this location, follow these steps:*
+1. *Locate the* <b>folderPath</b> *variable within your <ins>main.py</ins> file, typically around line 33 (line numbers may vary slightly).*
+2. *Update the value assigned to* <b>folderPath</b> *with the actual path to your folder containing the unorganized files. In your case, replace the path with the location of your <ins><b>'Pictures'</b></ins> folder.*
+3.  <b>A Visual representation of the steps is provided in the following image...</b>
