@@ -24,3 +24,4 @@
 1. *Locate the* <b>folderPath</b> *variable within your <ins>main.py</ins> file, typically around line 33 (line numbers may vary slightly).*
 2. *Update the value assigned to* <b>folderPath</b> *with the actual path to your folder containing the unorganized files. In your case, replace the path with the location of your <ins><b>'Pictures'</b></ins> folder.*
 3.  <b>A Visual representation of the steps is provided in the following image...</b>
+![ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/047446c6-e029-44e5-a48a-2e87a9056b51)
